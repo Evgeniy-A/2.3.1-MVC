@@ -9,7 +9,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdb4c38e-a830-4124-9fac-792c4c5526c6" name="Changes" comment="" />
+    <list default="true" id="fdb4c38e-a830-4124-9fac-792c4c5526c6" name="Changes" comment="First">
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/dataSources/9b9c6395-18cf-488c-90df-2485d46e68ad.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/dataSources/9b9c6395-18cf-488c-90df-2485d46e68ad/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/dataSources/9b9c6395-18cf-488c-90df-2485d46e68ad/storage_v2/_src_/schema/my_schema.lKvipQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/dataSources/9b9c6395-18cf-488c-90df-2485d46e68ad/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/dataSources/9b9c6395-18cf-488c-90df-2485d46e68ad/storage_v2/_src_/schema/new_db_prob.1x43Kg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/dataSources/9b9c6395-18cf-488c-90df-2485d46e68ad/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/dataSources/9b9c6395-18cf-488c-90df-2485d46e68ad/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/java/web/config/HibernateConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/java/web/config/HibernateConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/java/web/config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/java/web/config/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/java/web/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/java/web/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/webapp/WEB-INF/views/users/add_user.html" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/webapp/WEB-INF/views/user/add_user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/webapp/WEB-INF/views/users/all_users.html" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/webapp/WEB-INF/views/user/all_users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/webapp/WEB-INF/views/users/edit_users.html" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/webapp/WEB-INF/views/user/edit_users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/webapp/WEB-INF/views/users/selected_user.html" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate/src/main/webapp/WEB-INF/views/user/selected_user.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +45,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../2.3.1.Spring MVC.Hibernate" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Evgeniy-A&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Evgeniy-A/2.3.1-MVC.git&quot;,
+    &quot;accountId&quot;: &quot;9cb38624-a783-44ca-b469-08996ac20927&quot;
+  }
+}</component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -35,34 +71,37 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2szpIrBfz5ufZrbI8YyV43Zz35I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Tomcat Server.Tomcat 9.0.981.executor&quot;: &quot;Run&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Tomcat Server.Tomcat 9.0.981.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HOME/IdeaProjects/mvc_crud/2.3.1.Spring MVC.Hibernate",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;,
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql",
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.981" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.981" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/user" />
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -175,11 +214,25 @@
       <workItem from="1739524299127" duration="2126000" />
       <workItem from="1739527091004" duration="9199000" />
       <workItem from="1739544046424" duration="431000" />
-      <workItem from="1739544557948" duration="1604000" />
+      <workItem from="1739544557948" duration="3984000" />
+      <workItem from="1739550422993" duration="6397000" />
     </task>
+    <task id="LOCAL-00001" summary="First">
+      <option name="closed" value="true" />
+      <created>1739547973752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739547973752</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First" />
+    <option name="LAST_COMMIT_MESSAGE" value="First" />
   </component>
 </project>

@@ -50,8 +50,7 @@ public class HibernateConfig {
                 "hibernate.hbm2ddl.auto", "update",
                 "hibernate.dialect", "org.hibernate.dialect.MySQLDialect",
                 "hibernate.show_sql", "true",
-                "hibernate.format_sql", "true",
-                "hibernate.default_schema", "new_db_prob"
+                "hibernate.format_sql", "true"
         ));
         return factoryBean;
     }

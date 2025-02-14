@@ -1,5 +1,5 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>SpringMVCHibernate</groupId>
   <artifactId>231</artifactId>
@@ -10,6 +10,7 @@
 
   <properties>
     <java.version>11</java.version> <!-- Укажи свою версию Java (можно 17) -->
+    <spring.version>5.3.30</spring.version> <!-- Совместимая версия Spring -->
     <spring.version>5.3.30</spring.version> <!-- Совместимая версия Spring -->
     <hibernate.version>5.6.15.Final</hibernate.version> <!-- Совместимая версия Hibernate -->
     <spring.data.version>2.5.9</spring.data.version> <!-- Версия Spring Data JPA -->
